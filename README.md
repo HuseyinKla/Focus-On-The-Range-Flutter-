@@ -1,6 +1,6 @@
 # Focus On The Range
 
-A new Flutter project.
+In this game, you will try to keep the sum of the 10 numbers that will come in the given range.
 
 ## Getting Started
 
